@@ -1,5 +1,5 @@
-#class for Model2 goes here
+#class for Model1 goes here
 #Feel free to change the name of the class
-class Model2
+class Course
 
 end
